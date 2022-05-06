@@ -22,13 +22,13 @@ import com.google.android.material.textfield.TextInputEditText;
 MVVM -> Model, ViewModel, View
  */
 public class MainActivity extends AppCompatActivity {
-
     String TAG = "*****MainActivity";
     Button btnMainButton;
     Button btnGetImage;
     ImageView ivOurImage;
     TextInputEditText tietInput;
     static String KEY = "KEY";
+    //Hey its me Goku!
 
     /**
      * First callback in the lifecycle
