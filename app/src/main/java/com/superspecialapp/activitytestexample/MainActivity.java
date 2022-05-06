@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView ivOurImage;
     TextInputEditText tietInput;
     static String KEY = "KEY";
+    //Hey its me Goku!
 
     /**
      * First callback in the lifecycle
