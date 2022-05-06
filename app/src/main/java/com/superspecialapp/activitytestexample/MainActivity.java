@@ -23,6 +23,7 @@ MVVM -> Model, ViewModel, View
  */
 public class MainActivity extends AppCompatActivity {
 
+    //
     String TAG = "*****MainActivity";
     Button btnMainButton;
     Button btnGetImage;
